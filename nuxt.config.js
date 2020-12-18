@@ -40,3 +40,7 @@ export default {
   build: {
   }
 }
+
+module.exports = {
+  modules: ['@nuxtjs/avios'],
+}
